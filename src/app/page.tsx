@@ -4,7 +4,6 @@ import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import MedicineList from './components/MedicineList';
 
 type Medicine = {
   id: number;
@@ -50,7 +49,7 @@ export default function Home() {
         </div>
       </main>
 
-      <MedicineList />
+  
       <Footer />
     </div>
   );

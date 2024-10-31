@@ -4,112 +4,112 @@
       "id": 1,
       "name": "Paracetamol",
       "description": "Paracetamol is an analgesic and antipyretic used to relieve pain and reduce fever.",
-      "image": "/asset/paracetamol.png",
+      "image": "https://th.bing.com/th/id/OIP.SWthWb5W9t2X2s1RZ-elMQHaHa?rs=1&pid=ImgDetMain",
       "price": "₹50"
     },
     {
       "id": 2,
       "name": "Ibuprofen",
       "description": "Nonsteroidal anti-inflammatory drug used to relieve pain, reduce inflammation, and lower fever.",
-      "image": "/asset/Ibuprofen.png",
+      "image": "https://th.bing.com/th/id/OIP.3lkJ6mZvaNZ1OIdjkc_pRgHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7",
       "price": "₹50"
     },
     {
       "id": 3,
       "name": "Aspirin",
       "description": "Used for pain relief, anti-inflammatory purposes, and to reduce fever.",
-      "image": "/asset/Aspirin.png",
+      "image": "https://th.bing.com/th/id/OIP.Hr1LJdAuoxYFm179ndg9GAHaHN?rs=1&pid=ImgDetMain",
       "price": "₹30"
     },
     {
       "id": 4,
       "name": "Amoxicillin",
       "description": "Used to treat a variety of bacterial infections.",
-      "image": "/asset/Amoxicillin.png",
+      "image": "https://th.bing.com/th/id/OIP.pe9PzhNHVRZOfujweFKRqAHaFl?rs=1&pid=ImgDetMain",
       "price": "₹100"
     },
     {
       "id": 5,
       "name": "Beneadryl",
       "description": "Used as a sweetener; not typically a medicine but can provide energy.",
-      "image": "/asset/beneadryl.png",
+      "image": "https://th.bing.com/th/id/OIP.jArKlr2BTOIxxnja-lpRzQHaHu?w=187&h=195&c=7&r=0&o=5&pid=1.7",
       "price": "₹200"
     },
     {
       "id": 6,
       "name": "Tordex",
       "description": "Natural sweetener; not a medicine but often used in food and beverages.",
-      "image": "/asset/tordex.png",
+      "image": "https://th.bing.com/th/id/OIP.hf2V0bNChOrzGCYIFqCRHQHaHa?w=190&h=190&c=7&r=0&o=5&pid=1.7",
       "price": "₹250"
     },
     {
       "id": 7,
       "name": "Maple Syrup",
       "description": "Used as a sweetener and flavoring; not medicinal.",
-      "image": "/asset/Maple Syrup.png",
+      "image": "https://i.pinimg.com/originals/e6/6a/00/e66a005da23419ab872e5ff6354d7082.jpg",
       "price": "₹150"
     },
     {
       "id": 8,
       "name": "Corn Syrup",
       "description": "Sweetener used in foods; not medicinal.",
-      "image": "/asset/Corn Syrup.png",
+      "image": "https://th.bing.com/th/id/OIP.TMtY-DtZ7IBjSGpSTE9s0gAAAA?rs=1&pid=ImgDetMain",
       "price": "₹120"
     },
     {
       "id": 9,
       "name": "Heavy Cream",
       "description": "Used in cooking and baking; not a medicine.",
-      "image": "/asset/Heavy Cream.png",
+      "image": "https://th.bing.com/th/id/OIP.FyoaRSS-j8_1kfQT3bhB7gAAAA?rs=1&pid=ImgDetMain",
       "price": "₹300"
     },
     {
       "id": 10,
       "name": "Sour Cream",
       "description": "Used in cooking and as a condiment; not medicinal.",
-      "image": "/asset/Sour Cream.png",
+      "image": "https://th.bing.com/th/id/OIP.4J3R8b1wHWeVe9fZocosyAHaHa?rs=1&pid=ImgDetMain",
       "price": "₹180"
     },
     {
       "id": 11,
       "name": "Half-and-Half",
       "description": "Used in coffee and cooking; not a medicine.",
-      "image": "/asset/Half-and-Half.png",
+      "image": "https://th.bing.com/th/id/OIP.Aplfpk1BdG4HJa8eKDGg_gAAAA?rs=1&pid=ImgDetMain",
       "price": "₹160"
     },
     {
       "id": 12,
       "name": "Clotted Cream",
       "description": "Used as a spread or in desserts; not medicinal.",
-      "image": "/asset/Clotted Cream.png",
+      "image": "https://th.bing.com/th/id/OIP.978niQd7oB4r7OzHbDdFOgHaJ4?rs=1&pid=ImgDetMain",
       "price": "₹350"
     },
     {
       "id": 13,
       "name": "Antibiotic Ointment",
       "description": "Applied topically to prevent infections in minor cuts, scrapes, or burns.",
-      "image": "/asset/Antibiotic Ointment.png",
+      "image": "https://th.bing.com/th/id/OIP.WqGBtm4felzyzhhtg6vC2AHaHa?rs=1&pid=ImgDetMain",
       "price": "₹150"
     },
     {
       "id": 14,
       "name": "Hydrocortisone Ointment",
       "description": "Used to reduce inflammation, redness, and itching in skin conditions.",
-      "image": "/asset/Hydrocortisone Ointment.png",
+      "image": "https://i5.walmartimages.com/asr/30792caa-0241-469e-8ac4-c99a393450c3_1.420fc767e5099abba708a48771b7e819.jpeg",
       "price": "₹200"
     },
     {
       "id": 15,
       "name": "Emollient Ointment",
       "description": "Moisturizes and softens the skin, relieving dryness and irritation.",
-      "image": "/asset/Emollient Ointment.png",
+      "image": "https://th.bing.com/th/id/OIP.a9zGvs0TVhbga8ZDiNOvGAHaHa?rs=1&pid=ImgDetMain",
       "price": "₹180"
     },
     {
       "id": 16,
       "name": "Pain Relief Ointment",
       "description": "Provides relief from minor aches, muscle soreness, and joint pain.",
-      "image": "/asset/Pain Relief Ointment.png",
+      "image": "https://th.bing.com/th/id/OIP.QADVtMlzcWM4kx1s36mypwHaE-?rs=1&pid=ImgDetMain",
       "price": "₹250"
     }
   ]
